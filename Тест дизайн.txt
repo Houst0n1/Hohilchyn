@@ -1,0 +1,17 @@
+Тест дизайн - методика для створення тестових сценаріїв.
+
+Блек бокс - базується на основі (документації, специфікації, юзер кейсес, бізнес процесів). Застосовується для функціонального і не функціонального тестування .
+
+Equivalence partitioning
+
+Boundary value analysis  
+
+State transitision testing
+
+Pairwise testing
+
+Use case testing
+
+Experience testing
+
+Exploratory testing 
